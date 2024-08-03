@@ -21,6 +21,7 @@ print(type(completion), "\n", completion.model,"\n", completion, "\n",completion
 
 completion_data = {
     "model": completion.model,
+    "message": completion.choices[0].message.content
 }
 
 # Write the completion information to a JSON file

@@ -1,3 +1,4 @@
 {
-    "model": "gpt-4o-mini-2024-07-18"
+    "model": "gpt-4o-mini-2024-07-18",
+    "message": "      \t{\n      \"haiku\": {\n         \"line1\": \"Silent circuits hum,\",\n         \"line2\": \"Whispers of thought emerge bright,\",\n         \"line3\": \"Dreams in code take flight.\"\n      }\n   }"
 }
